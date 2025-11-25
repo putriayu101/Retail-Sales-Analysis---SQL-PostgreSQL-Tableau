@@ -20,10 +20,10 @@ The dataset includes the following columns:<br>
 10. cogs
 11. total_Sale
 <br>
-* **Note** *: Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
+📝NOTE: Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
 <br>
 <br>
-🎯**Objective**
+## 🎯Objective
 <br>
 This project answers key business question such as:  SQL Analysis (PostgreSQL)
 <br>
@@ -41,7 +41,7 @@ This project answers key business question such as:  SQL Analysis (PostgreSQL)
 12. Bandingkan total sales per gender in each category.<br>
 <br>
 <br>
-📊**Tableau Dashboard** <br>
+## 📊Tableau Dashboard <br>
 The Dashboard Includes: <br>
 1. Top Sales<br>
 2. Sales by Category<br>
@@ -58,7 +58,7 @@ The Dashboard Includes: <br>
 13. Cogs vs Sales (Profitability)<br>
 <br>
 <br>
-🔗**Tableau Public Link:** https://public.tableau.com/app/profile/putri.wardani.lich/vizzes
+🔗[Tableau Public Link:](https://public.tableau.com/app/profile/putri.wardani.lich/vizzes)
 <br>
 <br>
 🛠️**Tools**<br>
