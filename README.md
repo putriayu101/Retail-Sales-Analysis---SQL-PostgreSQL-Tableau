@@ -23,11 +23,11 @@ The dataset includes the following columns:<br>
 📝Note: Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
 <br>
 <br>
-🎯__Objectives__
+🎯**Objective**
 <br>
 This project answers key business question such as:  SQL Analysis (PostgreSQL)
 <br>
-1. Write SQL query to retrieve all columns for sales made on '2023-08-21' in 10.00 - 12.00
+1. Write SQL query to retrieve all columns for sales made on '2023-08-21' in 10.00 - 12.00<br>
 2. Write a SQL query to retrive all transaction where the category is 'clothing' dan bandingkan antar bulan untuk melihat kapan 'clothing' memiliki penjualan paling tinggi.
 3. Calculate total_sales untuk setiap kategori + tambahkan kolom presentase total untuk mengetahui kontribusi setiap kategori terhadap total sales.
 4. Temukan average age dari kustomer yang mempurcase items dari beauty kategori dan tampilkan rata-rata usia untuk semua kategori.
