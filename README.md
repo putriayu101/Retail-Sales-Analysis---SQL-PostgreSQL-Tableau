@@ -23,5 +23,7 @@ The dataset includes the following columns:
 ## 🎯Objective
 This project answer key business question such as:
 1. Write SQL query to retrive all columns for sales made on *2023-08-21* in *10.00 - 12.00*
-2. Write a SQL query to retrive all transaction where the category is **Clothing** dan bandingkan antar bulan untuk melihat kapan *Clothing* memiliki penjualan paling tinggi
-3. 
+2. Write a SQL query to retrive all transaction where the category is **Clothing** dan bandingkan antar bulan untuk melihat kapan **Clothing** memiliki penjualan paling tinggi
+3. Calculate **total_sale** untuk setiap kategori dan tambahkan kolom **presentase total** untuk mengetahui kontribusi setiap kategori terhadap **total_sales**
+4. Temukan average **age** dari customer yang mem-purcase item dari **Beauty** categori dan tampilkan rata-rata usia untuk semua kategori
+5. 
