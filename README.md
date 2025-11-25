@@ -60,7 +60,7 @@ The dashboard Includes:
 4. **pgAdmin 4** - SQL Development
 
 ## 📚References
-This project was inspired by video **SQL Data Analysis Portfolio Project #01/10 | Beginner to Advancde Guide for Aspiring Data Analysts by Zero Analyst** on Youtube
+This project was inspired by video **SQL Data Analysis Portfolio Project #01/10 | Beginner to Advancde Guide for Aspiring Data Analysts by Zero Analyst** on Youtube.
 
 **Original walkthrough:**<br>
 👉**Youtube Link:** https://www.youtube.com/watch?v=ChIQjGBI3AM&list=PLF2u7Zn-dIxbeais0AkBxUqdWM1hnSJDS <br>
