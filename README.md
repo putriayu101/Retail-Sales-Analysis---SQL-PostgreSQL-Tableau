@@ -28,17 +28,17 @@ The dataset includes the following columns:<br>
 This project answers key business question such as:  SQL Analysis (PostgreSQL)
 <br>
 1. Write SQL query to retrieve all columns for sales made on '2023-08-21' in 10.00 - 12.00<br>
-2. Write a SQL query to retrive all transaction where the category is 'clothing' dan bandingkan antar bulan untuk melihat kapan 'clothing' memiliki penjualan paling tinggi.
-3. Calculate total_sales untuk setiap kategori + tambahkan kolom presentase total untuk mengetahui kontribusi setiap kategori terhadap total sales.
-4. Temukan average age dari kustomer yang mempurcase items dari beauty kategori dan tampilkan rata-rata usia untuk semua kategori.
-5. Temukan semua transaksi dimana total_sale lebih besar dari 1800 dan diantara 1800 & 1500 dan cari juga rata2 total_sale untuk transaksi diatas 1800 dan dibawah 1800.
-6. Temukan total number dari setiap transaksi (COUNT(transaction_id) dari setiap gender di setiap kategori. dan tambahkan kolom avg_sale_pertransactions untuk melihat pola pembelian pria vs wanita.
-7. Hitung avg total sale untuk setiap untuk setiap bulan dan temukan best selling bulan di setiap tahun dan buat ranking (RANK()) untuk analisis tren tiap tahun.
-8. Temukan top 5 kustomer berdasarkan total sales tertinggi.
-9. Temukan number of unique customer yang mempurchase item dari setiap kategori. dan cari matriks "rata-rata quantity per customer" untuk engagement tiap kategori.
-10. Buat shift based sale_time (pagi <12, sore 12-17, malam > 17) dan COUNT number of orders untuk setiap shift. DAN hasil total_Sale per shift.
-11. Diantara umur berikut ini (<20, 20-35, 36-50, >50) kelompok mana yang memiliki kontribusi terbesar untuk total_Sale.
-12. Bandingkan total sales per gender in each category.
+2. Write a SQL query to retrive all transaction where the category is 'clothing' dan bandingkan antar bulan untuk melihat kapan 'clothing' memiliki penjualan paling tinggi.<br>
+3. Calculate total_sales untuk setiap kategori + tambahkan kolom presentase total untuk mengetahui kontribusi setiap kategori terhadap total sales.<br>
+4. Temukan average age dari kustomer yang mempurcase items dari beauty kategori dan tampilkan rata-rata usia untuk semua kategori.<br>
+5. Temukan semua transaksi dimana total_sale lebih besar dari 1800 dan diantara 1800 & 1500 dan cari juga rata2 total_sale untuk transaksi diatas 1800 dan dibawah 1800.<br>
+6. Temukan total number dari setiap transaksi (COUNT(transaction_id) dari setiap gender di setiap kategori. dan tambahkan kolom avg_sale_pertransactions untuk melihat pola pembelian pria vs wanita.<br>
+7. Hitung avg total sale untuk setiap untuk setiap bulan dan temukan best selling bulan di setiap tahun dan buat ranking (RANK()) untuk analisis tren tiap tahun.<br>
+8. Temukan top 5 kustomer berdasarkan total sales tertinggi.<br>
+9. Temukan number of unique customer yang mempurchase item dari setiap kategori. dan cari matriks "rata-rata quantity per customer" untuk engagement tiap kategori.<br>
+10. Buat shift based sale_time (pagi <12, sore 12-17, malam > 17) dan COUNT number of orders untuk setiap shift. DAN hasil total_Sale per shift.<br>
+11. Diantara umur berikut ini (<20, 20-35, 36-50, >50) kelompok mana yang memiliki kontribusi terbesar untuk total_Sale.<br>
+12. Bandingkan total sales per gender in each category.<br>
 <br>
 <br>
 📊**Tableau Dashboard**<br>
