@@ -7,7 +7,8 @@ This project explores a retail sales dataset containing transaction-level inform
 <br>
 <br>
 ✉️**Dataset Information**<br>
-The dataset includes the following columns:1. transaction_id
+The dataset includes the following columns:<br>
+1. transaction_id
 2. sale_date
 3. sale_time
 4. customer_id
@@ -18,8 +19,8 @@ The dataset includes the following columns:1. transaction_id
 9. price_per_unit
 10. cogs
 11. total_Sale
-
-Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
+<br>
+📝**Note:**Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
 
 
 🎯**Objectives** 
