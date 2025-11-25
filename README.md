@@ -20,7 +20,8 @@ The dataset includes the following columns:<br>
 10. cogs
 11. total_Sale
 <br>
-📝**Note:** Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
+📝**Note:**<br>
+Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
 
 
 🎯**Objectives** 
