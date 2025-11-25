@@ -62,8 +62,8 @@ The dashboard Includes:
 ## 📚References
 This project was inspired by video **SQL Data Analysis Portfolio Project #01/10 | Beginner to Advancde Guide for Aspiring Data Analysts by Zero Analyst** on Youtube
 
-**Original walkthrough:**
-👉**Youtube Link:** https://www.youtube.com/watch?v=ChIQjGBI3AM&list=PLF2u7Zn-dIxbeais0AkBxUqdWM1hnSJDS
+**Original walkthrough:**<br>
+👉**Youtube Link:** https://www.youtube.com/watch?v=ChIQjGBI3AM&list=PLF2u7Zn-dIxbeais0AkBxUqdWM1hnSJDS <br>
 👉**Dataset Link:** https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv
 
 **📝Note:** Some initial SQL steps and dataset structure follow the tutorial. However, all extended queries, deeper analysis, and final tableau dashboard were created independently for poertfolio purpose. 
