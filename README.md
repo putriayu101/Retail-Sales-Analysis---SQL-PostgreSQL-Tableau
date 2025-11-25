@@ -27,7 +27,6 @@ The dataset includes the following columns:<br>
 <br>
 This project answers key business question such as:  SQL Analysis (PostgreSQL)
 <br>
-<br>
 1. Write SQL query to retrieve all columns for sales made on '2023-08-21' in 10.00 - 12.00<br>
 2. Write a SQL query to retrive all transaction where the category is 'clothing' dan bandingkan antar bulan untuk melihat kapan 'clothing' memiliki penjualan paling tinggi.<br>
 3. Calculate total_sales untuk setiap kategori + tambahkan kolom presentase total untuk mengetahui kontribusi setiap kategori terhadap total sales.<br>
@@ -42,8 +41,8 @@ This project answers key business question such as:  SQL Analysis (PostgreSQL)
 12. Bandingkan total sales per gender in each category.<br>
 <br>
 <br>
-📊**Tableau Dashboard**<br>
-The Dashboard Includes: 
+📊**Tableau Dashboard** <br>
+The Dashboard Includes: <br>
 1. Top Sales<br>
 2. Sales by Category<br>
 3. Profit/Cogs vs Sales<br>
