@@ -44,40 +44,41 @@ This project answers key business question such as:  SQL Analysis (PostgreSQL)
 <br>
 📊**Tableau Dashboard**<br>
 The Dashboard Includes: 
-1. Top Sales
-2. Sales by Category
-3. Profit/Cogs vs Sales
-4. Top Selling Category/Product
-5. Sales by Gender
-6. Sales by Age Group
-7. Customer Segmentation
-8. Top 5 Customer
-9. Monthly Sales Trends by Year
-10. Daily Sales by Time of Day
-11. Best Selling Month per Year
-12. Sales by Weekday
-13. Cogs vs Sales (Profitability)
+1. Top Sales<br>
+2. Sales by Category<br>
+3. Profit/Cogs vs Sales<br>
+4. Top Selling Category/Product<br>
+5. Sales by Gender<br>
+6. Sales by Age Group<br>
+7. Customer Segmentation<br>
+8. Top 5 Customer<br>
+9. Monthly Sales Trends by Year<br>
+10. Daily Sales by Time of Day<br>
+11. Best Selling Month per Year<br>
+12. Sales by Weekday<br>
+13. Cogs vs Sales (Profitability)<br>
+<br>
 <br>
 🔗**Tableau Public Link:** https://public.tableau.com/app/profile/putri.wardani.lich/vizzes
-
-
+<br>
+<br>
 🛠️**Tools**<br>
 1. PostgreSQL - Data cleaning, exploration, and analysis
 2. Tableau Desktop & Public - Visualization and dashboard
 3. Github - Project documentation
 4. pgAdmin 4 - SQL Development
-
-
-📚**References** 
-This project was inspired by SQL Data Analysis Portfolio Project #01/10 | Beginner to Advance Guide for Aspiring Data Analysts by Zero Analyst on Youtube.
-Original walkthrough: 
-👉 **Youtube Link:** https://www.youtube.com/watch?v=ChIQjGBI3AM&list=PLF2u7Zn-dIxbeais0AkBxUqdWM1hnSJDS 
-👉 **Dataset Link:** https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv
-
+<br>
+<br>
+📚**References** <br>
+This project was inspired by SQL Data Analysis Portfolio Project #01/10 | Beginner to Advance Guide for Aspiring Data Analysts by Zero Analyst on Youtube.<br>
+Original walkthrough:<br>
+👉 **Youtube Link:** https://www.youtube.com/watch?v=ChIQjGBI3AM&list=PLF2u7Zn-dIxbeais0AkBxUqdWM1hnSJDS <br>
+👉 **Dataset Link:** https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv <br>
+<br>
 📝**Note: **Some initial SQL steps and dataset structure follow the tutorial. However, all extended queries, deeper analysis, and final Tableau dashboard were created independently for portfolio purposes. 
-
-
-⭐**Key Learning**
+<br>
+<br>
+⭐**Key Learning**<br>
 1. Writing clean and optimized SQL queries
 2. Using window functions, CTEs, grouping & date functions
 3. Creating business insights from transactional data
