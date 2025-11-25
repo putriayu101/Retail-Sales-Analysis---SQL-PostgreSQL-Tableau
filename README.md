@@ -7,8 +7,7 @@ This project explores a retail sales dataset containing transaction-level inform
 <br>
 <br>
 ✉️**Dataset Information**<br>
-The dataset includes the following columns:
-1. transaction_id
+The dataset includes the following columns:1. transaction_id
 2. sale_date
 3. sale_time
 4. customer_id
