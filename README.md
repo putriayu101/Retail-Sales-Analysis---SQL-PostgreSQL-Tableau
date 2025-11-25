@@ -23,7 +23,8 @@ The dataset includes the following columns:<br>
 📝NOTE: Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
 <br>
 <br>
-## 🎯Objective
+<br>
+## Objective
 <br>
 This project answers key business question such as:  SQL Analysis (PostgreSQL)
 <br>
