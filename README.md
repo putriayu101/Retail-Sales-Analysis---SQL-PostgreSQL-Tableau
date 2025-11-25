@@ -18,4 +18,9 @@ The dataset includes the following columns:
 10. cogs
 11. total_sale
 
-**Note:** dataset
+**Note:** Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
+
+## Objective
+This project answer key business question such as:
+1. Write SQL query to retrive all columns for sales made on 2023-08-21 in 10.00 until 12.00
+2. Write
