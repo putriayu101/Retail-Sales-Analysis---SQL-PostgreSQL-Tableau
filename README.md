@@ -27,6 +27,7 @@ The dataset includes the following columns:<br>
 <br>
 This project answers key business question such as:  SQL Analysis (PostgreSQL)
 <br>
+<br>
 1. Write SQL query to retrieve all columns for sales made on '2023-08-21' in 10.00 - 12.00<br>
 2. Write a SQL query to retrive all transaction where the category is 'clothing' dan bandingkan antar bulan untuk melihat kapan 'clothing' memiliki penjualan paling tinggi.<br>
 3. Calculate total_sales untuk setiap kategori + tambahkan kolom presentase total untuk mengetahui kontribusi setiap kategori terhadap total sales.<br>
@@ -60,7 +61,7 @@ The Dashboard Includes:
 🔗**Tableau Public Link:** https://public.tableau.com/app/profile/putri.wardani.lich/vizzes
 
 
-🛠️**Tools**
+🛠️**Tools**<br>
 1. PostgreSQL - Data cleaning, exploration, and analysis
 2. Tableau Desktop & Public - Visualization and dashboard
 3. Github - Project documentation
