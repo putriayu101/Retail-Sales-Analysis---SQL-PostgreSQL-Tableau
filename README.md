@@ -36,3 +36,8 @@ This project answer key business question such as:
 12. Bandingkan total sales per gender di setiap kategori
 
 ## Tableau Dashboard
+The dashboard Includes:
+1. Top Sales
+2. Sales by Category
+3. Profit/Cogs vs Sales
+4. 
