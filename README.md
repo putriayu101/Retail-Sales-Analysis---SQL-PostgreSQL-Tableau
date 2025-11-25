@@ -26,4 +26,13 @@ This project answer key business question such as:
 2. Write a SQL query to retrive all transaction where the category is **Clothing** dan bandingkan antar bulan untuk melihat kapan **Clothing** memiliki penjualan paling tinggi
 3. Calculate **total_sale** untuk setiap kategori dan tambahkan kolom **presentase total** untuk mengetahui kontribusi setiap kategori terhadap **total_sales**
 4. Temukan average **age** dari customer yang mem-purcase item dari **Beauty** categori dan tampilkan rata-rata usia untuk semua kategori
-5. 
+5. Temukan semua transaksi dimana **total_sale** lebih besar dari 1800 dan diantara 1800 &amp; 1500, cari juga rata-rata *total_sale** untuk transaksi diatas 1800 dan dibawah 1800
+6. Temukan total number dari setiap transaksi *(COUNT(transaction_id))* dari setiap gender di setiap kategori. Dan tambahkan kolom **avg_sale_pertransactions** untuk melihat pola pemberian pria vs wanita
+7. Hitung average total sale untuk setiap bulan dan temukan **best selling** bulan di setiap tahun, buat ranking *(RANK())* untuk setiap analisis tren tiap tahun
+8. Temukan Top 5 customer berdasarkan total sales tertinggi
+9. Temukan **number of unique customer** yang mem-purchase item dari setiap kategori dan cari matriks *rata-rata quantity per customer* untuk engagement tiap kategori
+10. Buat *shift based sale_time* dengan keterangan *pagi < 12, sore 12-17, malam > 17* dan **COUNT** *number of orders* untuk setiap shift. Dan cari hasil total sales per shift
+11. Diantara umur berikut ini *< 20, 20-30, 36-50, >50* kelompok mana yang memiliki kontribusi terbesar untuk total sales
+12. Bandingkan total sales per gender di setiap kategori
+
+## Tableau Dashboard
