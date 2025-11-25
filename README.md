@@ -51,4 +51,4 @@ The dashboard Includes:
 12. Sales by Weekday
 13. Cogs vs Sales (Profitability)
 
-**Tableau Public Link:** https://public.tableau.com/app/profile/putri.wardani.lich/vizzes
+🔗**Tableau Public Link:** https://public.tableau.com/app/profile/putri.wardani.lich/vizzes
