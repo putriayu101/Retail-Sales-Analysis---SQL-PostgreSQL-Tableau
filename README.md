@@ -54,10 +54,10 @@ The dashboard Includes:
 🔗**Tableau Public Link:** https://public.tableau.com/app/profile/putri.wardani.lich/vizzes
 
 ## 🛠️Tools
-1. PostgreSQL - Data cleaning, exploration, and analysis
-2. Tableau Desktop &amp; Public - Visualization and Dashboard
-3. Github - Project Documentation
-4. pgAdmin 4 - SQL Development
+1. **PostgreSQL** - Data cleaning, exploration, and analysis
+2. **Tableau Desktop &amp; Public** - Visualization and Dashboard
+3. **Github** - Project Documentation
+4. **pgAdmin 4** - SQL Development
 
 ## 📚References
 This project
