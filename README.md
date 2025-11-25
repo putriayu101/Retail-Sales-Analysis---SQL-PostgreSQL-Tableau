@@ -35,9 +35,20 @@ This project answer key business question such as:
 11. Diantara umur berikut ini *< 20, 20-30, 36-50, >50* kelompok mana yang memiliki kontribusi terbesar untuk total sales
 12. Bandingkan total sales per gender di setiap kategori
 
-## Tableau Dashboard
+## 📊Tableau Dashboard
 The dashboard Includes:
 1. Top Sales
 2. Sales by Category
 3. Profit/Cogs vs Sales
-4. 
+4. Top Selling Category
+5. Sales by Gender
+6. Sales by Age Group
+7. Customer Segmentation
+8. Top 5 Customer
+9. Monthly Sales Trend by Year
+10. Daily Sales by Time of Day
+11. Best Selling Month per year
+12. Sales by Weekday
+13. Cogs vs Sales (Profitability)
+
+**Tableau Public Link:** https://public.tableau.com/app/profile/putri.wardani.lich/vizzes
