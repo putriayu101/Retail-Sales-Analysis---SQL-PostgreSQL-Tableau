@@ -20,10 +20,9 @@ The dataset includes the following columns:<br>
 10. cogs
 11. total_Sale
 <br>
-📝**Note:**<br>
-Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
-
-
+📝Note: Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
+<br>
+<br>
 🎯**Objectives** 
 This project answers key business question such as:  SQL Analysis (PostgreSQL)
 1. Write SQL query to retrieve all columns for sales made on '2023-08-21' in 10.00 - 12.00
@@ -38,8 +37,8 @@ This project answers key business question such as:  SQL Analysis (PostgreSQL)
 10. Buat shift based sale_time (pagi <12, sore 12-17, malam > 17) dan COUNT number of orders untuk setiap shift. DAN hasil total_Sale per shift.
 11. Diantara umur berikut ini (<20, 20-35, 36-50, >50) kelompok mana yang memiliki kontribusi terbesar untuk total_Sale.
 12. Bandingkan total sales per gender in each category.
-
-
+<br>
+<br>
 📊**Tableau Dashboard**
 The Dashboard Includes: 
 1. Top Sales
@@ -55,7 +54,7 @@ The Dashboard Includes:
 11. Best Selling Month per Year
 12. Sales by Weekday
 13. Cogs vs Sales (Profitability)
-    
+<br>
 🔗**Tableau Public Link:** https://public.tableau.com/app/profile/putri.wardani.lich/vizzes
 
 
