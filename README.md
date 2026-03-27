@@ -48,7 +48,7 @@ This project answer key business question such as:
    <img width="236" height="75" alt="image" src="https://github.com/user-attachments/assets/d8a847da-500b-402c-86fa-0d9b542a1639" /> <br>
 
 8. Temukan Top 5 customer berdasarkan total sales tertinggi
-    - **Jawab:** Top 5 customer dimiliki oleh customer_id: 3,1,5,2,4 <br>
+    - **Jawab:** Top 5 customer dimiliki oleh customer_id: 3,1,5,2,4. <br>
     <img width="214" height="136" alt="image" src="https://github.com/user-attachments/assets/4308e5e4-61ae-4633-8720-eafd2bd9444a" /> <br>
 
 9. Temukan **number of unique customer** yang mem-purchase item dari setiap kategori dan cari matriks *rata-rata quantity per customer* untuk engagement tiap kategori. 
@@ -58,7 +58,7 @@ This project answer key business question such as:
     <img width="275" height="97" alt="image" src="https://github.com/user-attachments/assets/bfc1c6bd-dc3e-4d8d-89c0-5fb086b12690" /> <br>
     
 10. Buat *shift based sale_time* dengan keterangan *pagi < 12, sore 12-17, malam > 17* dan **COUNT** *number of orders* untuk setiap shift. Dan cari hasil total sales per shift.
-    - **Jawab:** Pembelian paling tinggi terjadi di malam hari dengan produk terjual sebanyak 1062 unit, total sales mencapai IDR 475,940 <br>
+    - **Jawab:** Pembelian paling tinggi terjadi di malam hari dengan produk terjual sebanyak 1062 unit, total sales mencapai IDR 475,940. <br>
     <img width="238" height="102" alt="image" src="https://github.com/user-attachments/assets/0ebf35e2-6e8c-4f0d-b1b9-ba619faea7d9" /> <br>
 
 11. Diantara umur berikut ini *< 20, 20-30, 36-50, >50* kelompok mana yang memiliki kontribusi terbesar untuk total sales.
@@ -66,7 +66,7 @@ This project answer key business question such as:
     <img width="444" height="118" alt="image" src="https://github.com/user-attachments/assets/6ba115ce-5c50-49a3-b9b7-56d38c1332fd" /> <br>
 
 12. Bandingkan total sales per gender di setiap kategori.
-    - **Jawab:** <br>
+    - **Jawab:** Sales terbesar berada di kategori **Clothing** sebesar IDR 162,460 dan banyak direpuchase oleh Wanita.<br>
     <img width="470" height="156" alt="image" src="https://github.com/user-attachments/assets/3684bc77-33f7-4121-8882-790ed5522920" /> <br>
 
 ## 📊Tableau Dashboard
