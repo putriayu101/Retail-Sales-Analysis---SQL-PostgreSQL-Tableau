@@ -48,7 +48,7 @@ This project answer key business question such as:
    <img width="236" height="75" alt="image" src="https://github.com/user-attachments/assets/d8a847da-500b-402c-86fa-0d9b542a1639" /> <br>
 
 8. Temukan Top 5 customer berdasarkan total sales tertinggi
-    - **Jawab:** <br>
+    - **Jawab:** Top 5 customer dimiliki oleh customer_id: 3,1,5,2,4 <br>
     <img width="214" height="136" alt="image" src="https://github.com/user-attachments/assets/4308e5e4-61ae-4633-8720-eafd2bd9444a" /> <br>
 
 9. Temukan **number of unique customer** yang mem-purchase item dari setiap kategori dan cari matriks *rata-rata quantity per customer* untuk engagement tiap kategori. 
