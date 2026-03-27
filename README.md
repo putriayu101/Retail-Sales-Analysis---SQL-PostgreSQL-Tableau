@@ -25,15 +25,15 @@ This project answer key business question such as:
 1. Write SQL query to retrive all columns for sales made on *2023-08-21* in *10.00 - 12.00*.
    
 2. Write a SQL query to retrive all transaction where the category is **Clothing** dan bandingkan antar bulan untuk melihat kapan **Clothing** memiliki penjualan paling tinggi. <br>
-   **Jawab:** Kategori *Clothing* paling banyak terjual pada bulan November 2022 dengan total 24 transaksi.<br>
+   - **Jawab:** Kategori *Clothing* paling banyak terjual pada bulan November 2022 dengan total 24 transaksi.<br>
    <img width="196" height="236" alt="image" src="https://github.com/user-attachments/assets/d8867063-3579-4fb4-ada6-98bf009ed7aa" /> <br>
 
 3. Calculate **total_sale** untuk setiap kategori dan tambahkan kolom **presentase total** untuk mengetahui kontribusi setiap kategori terhadap **total_sales**. <br>
-   **Jawab:** Dari 3 kategori yang ada, kategori *Electronics* memiliki total sale dan persentase tertinggi diantara kategori lainnya.<br>
+   - **Jawab:** Dari 3 kategori yang ada, kategori *Electronics* memiliki total sale dan persentase tertinggi diantara kategori lainnya.<br>
    <img width="364" height="99" alt="image" src="https://github.com/user-attachments/assets/a6d87a7e-7426-4ed7-9270-762ada309192" /> <br>
 
 4. Temukan average **age** dari customer yang mem-purcase item dari **Beauty** categori dan tampilkan rata-rata usia untuk semua kategori. <br>
-   **Jawab:** Rata-rata umur customer yang merepuchase dari kategori *Beauty* adalah 40 thn, serta rata rata-rata umur pelanggan untuk kategori *Electronics* adalah 41 thn dan *Clothing* adalah 42 thn.
+   - **Jawab:** Rata-rata umur customer yang merepuchase dari kategori *Beauty* adalah 40 thn, serta rata rata-rata umur pelanggan untuk kategori *Electronics* adalah 41 thn dan *Clothing* adalah 42 thn.
    
 5. Temukan semua transaksi dimana **total_sale** lebih besar dari 1800 dan diantara 1800 &amp; 1500, cari juga rata-rata *total_sale** untuk transaksi diatas 1800 dan dibawah 1800. <br>
    **Jawab:** Ada total 198 transaksi yang lebih dari 1800 dan diantara 1500 - 1800 dari keseluruhan total sales.<br>
