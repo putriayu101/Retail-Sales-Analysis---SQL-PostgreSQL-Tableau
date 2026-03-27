@@ -24,49 +24,49 @@ The dataset includes the following columns:
 This project answer key business question such as:
 1. Write SQL query to retrive all columns for sales made on *2023-08-21* in *10.00 - 12.00*.
    
-2. Write a SQL query to retrive all transaction where the category is **Clothing** dan bandingkan antar bulan untuk melihat kapan **Clothing** memiliki penjualan paling tinggi. <br>
+2. Write a SQL query to retrive all transaction where the category is **Clothing** dan bandingkan antar bulan untuk melihat kapan **Clothing** memiliki penjualan paling tinggi.
    - **Jawab:** Kategori *Clothing* paling banyak terjual pada bulan November 2022 dengan total 24 transaksi.<br>
    <img width="196" height="236" alt="image" src="https://github.com/user-attachments/assets/d8867063-3579-4fb4-ada6-98bf009ed7aa" /> <br>
 
-3. Calculate **total_sale** untuk setiap kategori dan tambahkan kolom **presentase total** untuk mengetahui kontribusi setiap kategori terhadap **total_sales**. <br>
+3. Calculate **total_sale** untuk setiap kategori dan tambahkan kolom **presentase total** untuk mengetahui kontribusi setiap kategori terhadap **total_sales**.
    - **Jawab:** Dari 3 kategori yang ada, kategori *Electronics* memiliki total sale dan persentase tertinggi diantara kategori lainnya.<br>
    <img width="364" height="99" alt="image" src="https://github.com/user-attachments/assets/a6d87a7e-7426-4ed7-9270-762ada309192" /> <br>
 
-4. Temukan average **age** dari customer yang mem-purcase item dari **Beauty** categori dan tampilkan rata-rata usia untuk semua kategori. <br>
+4. Temukan average **age** dari customer yang mem-purcase item dari **Beauty** categori dan tampilkan rata-rata usia untuk semua kategori.
    - **Jawab:** Rata-rata umur customer yang merepuchase dari kategori *Beauty* adalah 40 thn, serta rata rata-rata umur pelanggan untuk kategori *Electronics* adalah 41 thn dan *Clothing* adalah 42 thn.
    
-5. Temukan semua transaksi dimana **total_sale** lebih besar dari 1800 dan diantara 1800 &amp; 1500, cari juga rata-rata *total_sale** untuk transaksi diatas 1800 dan dibawah 1800. <br>
-   **Jawab:** Ada total 198 transaksi yang lebih dari 1800 dan diantara 1500 - 1800 dari keseluruhan total sales.<br>
+5. Temukan semua transaksi dimana **total_sale** lebih besar dari 1800 dan diantara 1800 &amp; 1500, cari juga rata-rata *total_sale** untuk transaksi diatas 1800 dan dibawah 1800.
+   - **Jawab:** Ada total 198 transaksi yang lebih dari 1800 dan diantara 1500 - 1800 dari keseluruhan total sales.<br>
    <img width="456" height="136" alt="image" src="https://github.com/user-attachments/assets/e333669c-8f0a-49af-8549-79ddd388b8a2" /> <br>
 
-6. Temukan total number dari setiap transaksi *(COUNT(transaction_id))* dari setiap gender di setiap kategori. Dan tambahkan kolom **avg_sale_pertransactions** untuk melihat pola pembelian pria vs wanita <br>
-    **Jawab:**  Rata-rata tertinggi berasal dari kategori *Beauty* dan di dominasi oleh Pria. Dan untuk Wanita paling banyak membeli di kategori *Clothing*.<br>
+6. Temukan total number dari setiap transaksi *(COUNT(transaction_id))* dari setiap gender di setiap kategori. Dan tambahkan kolom **avg_sale_pertransactions** untuk melihat pola pembelian pria vs wanita.
+    - **Jawab:**  Rata-rata tertinggi berasal dari kategori *Beauty* dan di dominasi oleh Pria. Dan untuk Wanita paling banyak membeli di kategori *Clothing*.<br>
      <img width="470" height="137" alt="image" src="https://github.com/user-attachments/assets/0b839a3a-b61c-4703-8ee9-e34f80621b70" /> <br>
 
 7. Hitung average total sale untuk setiap bulan dan temukan **best selling** bulan di setiap tahun, buat ranking *(RANK())* untuk setiap analisis tren tiap tahun.
-   **Jawab:** *Best selling* peringkat pertama ada di bulan Juli 2022 sebesar 541,34. Peringkat kedua ada di bulan Februari 2023 sebesar 535,53.<br>
+   - **Jawab:** *Best selling* peringkat pertama ada di bulan Juli 2022 sebesar 541,34. Peringkat kedua ada di bulan Februari 2023 sebesar 535,53.<br>
    <img width="472" height="150" alt="image" src="https://github.com/user-attachments/assets/d8a847da-500b-402c-86fa-0d9b542a1639" /> <br>
 
 8. Temukan Top 5 customer berdasarkan total sales tertinggi
-    **Jawab:** <br>
+    - **Jawab:** <br>
     <img width="214" height="136" alt="image" src="https://github.com/user-attachments/assets/4308e5e4-61ae-4633-8720-eafd2bd9444a" /> <br>
 
-9. Temukan **number of unique customer** yang mem-purchase item dari setiap kategori dan cari matriks *rata-rata quantity per customer* untuk engagement tiap kategori. <br>
-    **Jawab:** *Unique* customer peringkat pertama dimiliki kategori **Clothing** sebanyak 149 kustomer. <br>
+9. Temukan **number of unique customer** yang mem-purchase item dari setiap kategori dan cari matriks *rata-rata quantity per customer* untuk engagement tiap kategori. 
+    - **Jawab:** *Unique* customer peringkat pertama dimiliki kategori **Clothing** sebanyak 149 kustomer. <br>
     <img width="267" height="95" alt="image" src="https://github.com/user-attachments/assets/a0d970ab-3061-4784-9726-1e759ad6ecd0" /> <br>
     Dan rata-rata *quantity* per customer paling tinggi dimiliki kategori ** Electronics** sebesar 2,48 unit. <br>
     <img width="275" height="97" alt="image" src="https://github.com/user-attachments/assets/bfc1c6bd-dc3e-4d8d-89c0-5fb086b12690" /> <br>
     
-10. Buat *shift based sale_time* dengan keterangan *pagi < 12, sore 12-17, malam > 17* dan **COUNT** *number of orders* untuk setiap shift. Dan cari hasil total sales per shift. <br>
-    **Jawab:**<br>
+10. Buat *shift based sale_time* dengan keterangan *pagi < 12, sore 12-17, malam > 17* dan **COUNT** *number of orders* untuk setiap shift. Dan cari hasil total sales per shift.
+    - **Jawab:**<br>
     <img width="238" height="102" alt="image" src="https://github.com/user-attachments/assets/0ebf35e2-6e8c-4f0d-b1b9-ba619faea7d9" /> <br>
 
-11. Diantara umur berikut ini *< 20, 20-30, 36-50, >50* kelompok mana yang memiliki kontribusi terbesar untuk total sales. <br>
-    **Jawab:** Umur 20 - 35 tahun memiliki kontribusi terbesar untuk total sales sebesar IDR 313,800. Dan yang paling rendah berada di umur kurang dari 20 tahun, sebesar IDR 52,030.<br>
+11. Diantara umur berikut ini *< 20, 20-30, 36-50, >50* kelompok mana yang memiliki kontribusi terbesar untuk total sales.
+    - **Jawab:** Umur 20 - 35 tahun memiliki kontribusi terbesar untuk total sales sebesar IDR 313,800. Dan yang paling rendah berada di umur kurang dari 20 tahun, sebesar IDR 52,030.<br>
     <img width="444" height="118" alt="image" src="https://github.com/user-attachments/assets/6ba115ce-5c50-49a3-b9b7-56d38c1332fd" /> <br>
 
-12. Bandingkan total sales per gender di setiap kategori. <br>
-    **Jawab:** <br>
+12. Bandingkan total sales per gender di setiap kategori.
+    - **Jawab:** <br>
     <img width="470" height="156" alt="image" src="https://github.com/user-attachments/assets/3684bc77-33f7-4121-8882-790ed5522920" /> <br>
 
 ## 📊Tableau Dashboard
