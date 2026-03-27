@@ -23,17 +23,51 @@ The dataset includes the following columns:
 ## 🎯Objective
 This project answer key business question such as:
 1. Write SQL query to retrive all columns for sales made on *2023-08-21* in *10.00 - 12.00*
+   
 2. Write a SQL query to retrive all transaction where the category is **Clothing** dan bandingkan antar bulan untuk melihat kapan **Clothing** memiliki penjualan paling tinggi
+   **Jawab:** Kategori *Clothing* paling banyak terjual pada bulan November 2022 dengan total 24 transaksi.
+   <img width="192" height="253" alt="image" src="https://github.com/user-attachments/assets/87490a21-22bf-4237-a16f-8d8a6c3e73b1" /> <br>
+
 3. Calculate **total_sale** untuk setiap kategori dan tambahkan kolom **presentase total** untuk mengetahui kontribusi setiap kategori terhadap **total_sales**
+   **Jawab:** Dari 3 kategori yang ada, kategori *Electronics* memiliki total sale dan persentase tertinggi diantara kategori lainnya.
+   <img width="428" height="98" alt="image" src="https://github.com/user-attachments/assets/9a4d3e13-b409-482f-87e2-5a7b9d8e6457" /> <br>
+
 4. Temukan average **age** dari customer yang mem-purcase item dari **Beauty** categori dan tampilkan rata-rata usia untuk semua kategori
+   **Jawab:** Rata-rata umur customer yang merepuchase dari kategori *Beauty* adalah 40 thn, serta rata rata-rata umur pelanggan untuk kategori *Electronics* adalah 41 thn dan *Clothing* adalah 42 thn.
+   
 5. Temukan semua transaksi dimana **total_sale** lebih besar dari 1800 dan diantara 1800 &amp; 1500, cari juga rata-rata *total_sale** untuk transaksi diatas 1800 dan dibawah 1800
-6. Temukan total number dari setiap transaksi *(COUNT(transaction_id))* dari setiap gender di setiap kategori. Dan tambahkan kolom **avg_sale_pertransactions** untuk melihat pola pemberian pria vs wanita
-7. Hitung average total sale untuk setiap bulan dan temukan **best selling** bulan di setiap tahun, buat ranking *(RANK())* untuk setiap analisis tren tiap tahun
+   **Jawab:** Ada total 198 transaksi yang lebih dari 1800 dan diantara 1500 - 1800 dari keseluruhan total sales.
+   <img width="411" height="172" alt="image" src="https://github.com/user-attachments/assets/ac863659-5519-4dd1-9dcd-1cf8d918e638" /> <br>
+
+6. Temukan total number dari setiap transaksi *(COUNT(transaction_id))* dari setiap gender di setiap kategori. Dan tambahkan kolom **avg_sale_pertransactions** untuk melihat pola pembelian pria vs wanita
+    **Jawab:**  Rata-rata tertinggi berasal dari kategori *Beauty* dan di dominasi oleh Pria. Dan untuk Wanita paling banyak membeli di kategori *Clothing*.
+     <img width="425" height="134" alt="image" src="https://github.com/user-attachments/assets/8eb7a117-f44d-49f3-bc89-1ca301c2aec3" /> <br>
+
+7. Hitung average total sale untuk setiap bulan dan temukan **best selling** bulan di setiap tahun, buat ranking *(RANK())* untuk setiap analisis tren tiap tahun.
+   **Jawab:** *Best selling* peringkat pertama ada di bulan Juli 2022 sebesar 541,34. Peringkat kedua ada di bulan Februari 2023 sebesar 535,53.
+   <img width="242" height="80" alt="image" src="https://github.com/user-attachments/assets/a9a2782f-f8cf-47a2-b5b3-e8c3798581a3" /> <br>
+
 8. Temukan Top 5 customer berdasarkan total sales tertinggi
+    **Jawab:**
+    <img width="228" height="173" alt="image" src="https://github.com/user-attachments/assets/7cf51bac-8f39-4e50-a24a-9da9374d909c" /> <br>
+
 9. Temukan **number of unique customer** yang mem-purchase item dari setiap kategori dan cari matriks *rata-rata quantity per customer* untuk engagement tiap kategori
+    **Jawab:** *Unique* customer peringkat pertama dimiliki kategori **Clothing** sebanyak 149 kustomer. 
+    <img width="533" height="189" alt="image" src="https://github.com/user-attachments/assets/ef1b12c2-9bdc-45b8-8c07-e0d7aab343df" /> <br>
+    Dan rata-rata *quantity* per customer paling tinggi dimiliki kategori ** Electronics** sebesar 2,48 unit.
+    <img width="364" height="144" alt="image" src="https://github.com/user-attachments/assets/097b8fae-d31d-43c6-b4a3-dd8d3c03f62e" /> <br>
+    
 10. Buat *shift based sale_time* dengan keterangan *pagi < 12, sore 12-17, malam > 17* dan **COUNT** *number of orders* untuk setiap shift. Dan cari hasil total sales per shift
+    **Jawab:**
+    <img width="275" height="103" alt="image" src="https://github.com/user-attachments/assets/600e662c-3088-42c4-844f-3f8b9bf1b15c" /><br>
+
 11. Diantara umur berikut ini *< 20, 20-30, 36-50, >50* kelompok mana yang memiliki kontribusi terbesar untuk total sales
+    **Jawab:** Umur 20 - 35 tahun memiliki kontribusi terbesar untuk total sales sebesar IDR 313,800. Dan yang paling rendah berada di umur kurang dari 20 tahun, sebesar IDR 52,030.
+    <img width="444" height="136" alt="image" src="https://github.com/user-attachments/assets/d66a6e09-47c0-4bf7-86cd-61cfa9699193" /> <br>
+
 12. Bandingkan total sales per gender di setiap kategori
+    **Jawab:**
+    <img width="520" height="185" alt="image" src="https://github.com/user-attachments/assets/e97fc647-fdeb-416f-a7b0-70b1053411e1" /> <br>
 
 ## 📊Tableau Dashboard
 The dashboard Includes:
@@ -75,9 +109,7 @@ This project was inspired by video **SQL Data Analysis Portfolio Project #01/10 
 4. Designing dashboard woth storytelling principles
 5. Presenting end-to-end analytics workflow
 
-## 📬Contact 
+## 📬Profile 
 If you're a recruiter or collaborator, feel free to reach out!
-
 🔗**LinkedIn:** https://www.linkedin.com/in/putriayulichawardani
-
 📩**Email:** putriayulw10@gmail.com
