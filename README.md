@@ -45,7 +45,7 @@ This project answer key business question such as:
 
 7. Hitung average total sale untuk setiap bulan dan temukan **best selling** bulan di setiap tahun, buat ranking *(RANK())* untuk setiap analisis tren tiap tahun.
    - **Jawab:** *Best selling* peringkat pertama ada di bulan Juli 2022 sebesar 541,34. Peringkat kedua ada di bulan Februari 2023 sebesar 535,53.<br>
-   <img width="472" height="150" alt="image" src="https://github.com/user-attachments/assets/d8a847da-500b-402c-86fa-0d9b542a1639" /> <br>
+   <img width="272" height="75" alt="image" src="https://github.com/user-attachments/assets/d8a847da-500b-402c-86fa-0d9b542a1639" /> <br>
 
 8. Temukan Top 5 customer berdasarkan total sales tertinggi
     - **Jawab:** <br>
