@@ -54,11 +54,11 @@ This project answer key business question such as:
 9. Temukan **number of unique customer** yang mem-purchase item dari setiap kategori dan cari matriks *rata-rata quantity per customer* untuk engagement tiap kategori. 
     - **Jawab:** *Unique* customer peringkat pertama dimiliki kategori **Clothing** sebanyak 149 kustomer. <br>
     <img width="267" height="95" alt="image" src="https://github.com/user-attachments/assets/a0d970ab-3061-4784-9726-1e759ad6ecd0" /> <br>
-    Dan rata-rata *quantity* per customer paling tinggi dimiliki kategori ** Electronics** sebesar 2,48 unit. <br>
+    Dan rata-rata *quantity* per customer paling tinggi dimiliki kategori **Electronics** sebesar 2,48 unit. <br>
     <img width="275" height="97" alt="image" src="https://github.com/user-attachments/assets/bfc1c6bd-dc3e-4d8d-89c0-5fb086b12690" /> <br>
     
 10. Buat *shift based sale_time* dengan keterangan *pagi < 12, sore 12-17, malam > 17* dan **COUNT** *number of orders* untuk setiap shift. Dan cari hasil total sales per shift.
-    - **Jawab:**<br>
+    - **Jawab:** Pembelian paling tinggi terjadi di malam hari dengan produk terjual sebanyak 1062 unit, total sales mencapai IDR 475,940 <br>
     <img width="238" height="102" alt="image" src="https://github.com/user-attachments/assets/0ebf35e2-6e8c-4f0d-b1b9-ba619faea7d9" /> <br>
 
 11. Diantara umur berikut ini *< 20, 20-30, 36-50, >50* kelompok mana yang memiliki kontribusi terbesar untuk total sales.
