@@ -112,6 +112,6 @@ This project was inspired by video **SQL Data Analysis Portfolio Project #01/10 
 5. Presenting end-to-end analytics workflow
 
 ## 📬Profile 
-If you're a recruiter or collaborator, feel free to reach out!
+If you're a recruiter or collaborator, feel free to reach out!<br>
 🔗**LinkedIn:** https://www.linkedin.com/in/putriayulichawardani <br>
 📩**Email:** putriayulw10@gmail.com
