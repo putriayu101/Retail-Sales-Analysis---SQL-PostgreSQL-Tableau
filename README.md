@@ -7,18 +7,18 @@ This project explores a retail sales dataset containing transaction-level inform
 ## ✉️Dataset Information
 - 1987 Rows Data
 - The dataset includes the following columns:
-1. transaction_id
-2. sale_date
-3. sale_time
-4. customer_id
-5. gender
-6. age
-7. category
-8. quantity
-9. price_per_unit
-10. cogs
-11. total_sale
-
+     - transaction_id
+     - sale_date
+     - sale_time
+     - customer_id
+     - gender
+     - age
+     - category
+     - quantity
+     - price_per_unit
+     - cogs
+     - total_sale
+       
 **Note:** Dataset source and schema were initially guided by the reference video below, with additional modifications and expanded analysis done independently.
 
 ## 🎯Objective
