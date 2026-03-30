@@ -1,4 +1,4 @@
-# Retail-Sales-Analysis---SQL-PostgreSQL-Tableau
+# End-to-End Retail Sales Analysis & Dashboard Visualization
 End-to-End data analysis project using PostgreSQL for data exploration &amp; cleaning, and Tableau for interactive dashboard visualization
 
 ## 📌Project Overview
