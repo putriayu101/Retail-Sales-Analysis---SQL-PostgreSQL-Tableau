@@ -24,7 +24,7 @@ The dataset includes the following columns:
 This project answer key business question such as:
 1. Write SQL query to retrive all columns for sales made on *2023-11-05* in *09.00 - 20.00*.
    - **Jawab:** Ada 7 transaksi yang dilakukan pada tanggal 5 November 2023 pukul 9 pagi sampai 20 malam.
-   - <img width="556" height="126" alt="image" src="https://github.com/user-attachments/assets/56e12e5f-854e-4390-ac25-ace36768d67f" />
+     <img width="5558" height="126" alt="image" src="https://github.com/user-attachments/assets/56e12e5f-854e-4390-ac25-ace36768d67f" />
 
 2. Write a SQL query to retrive all transaction where the category is **Clothing** dan bandingkan antar bulan untuk melihat kapan **Clothing** memiliki penjualan paling tinggi.
    - **Jawab:** Kategori *Clothing* paling banyak terjual pada bulan November 2022 dengan total 24 transaksi.<br>
